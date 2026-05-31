@@ -94,7 +94,3 @@ python no_matrix.py
 ## Output Files
 
 Generated CSV files contain transition matrices or cost-analysis results that can be reused for visualization and further analysis.
-
-## Contact
-
-For questions or improvements, update the scripts and add detailed comments to document each model assumption and parameter choice.
